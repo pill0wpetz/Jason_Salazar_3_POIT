@@ -1,0 +1,44 @@
+    1  exit
+    2   echo "My name is Jason Salazar 3rd and I am $USER"
+    3  su
+    4  sudo -i
+    5  ssh-keygen
+    6  xclip -sel clip < ~/.ssh/id_rsa.pub
+    7  history > salazar_J_3_103118_commands
+    8  su
+    9  sudo
+   10  sudo -i
+   11  cd
+   12  history > salazar_j_3_103118_commands
+   13  scp ./salazar_j_3_103118_commands git@github.com:pill0wpetz/Jason_Salazar_3-POIT.git
+   14  git init 
+   15  ls
+   16  sudo rm-rf salazar_j_3_103118_commands 
+   17  sudo rm-r salazar_j_3_103118_commands 
+   18  sudo rm salazar_j_3_103118_commands 
+   19  ls
+   20  ls -la
+   21  sudo mkhomedir_helper pill0petz
+   22  ls
+   23  cd /..
+   24  ls
+   25  cd /..
+   26  cd
+   27  ls
+   28  cd /home
+   29  ls
+   30  cd pill0wpetz/
+   31  ls
+   32  cd ../
+   33  cd pill0wpetz/
+   34  cd /..
+   35  ls
+   36  cd home
+   37  ls
+   38  history >salazar_j_3_103118_commands
+   39  history > salazar_j_3_103118_commands
+   40  ls
+   41  cd
+   42  clear
+   43  pwd
+   44  history >salazar_j_3_103118_commands
